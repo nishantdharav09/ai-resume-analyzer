@@ -1,0 +1,7 @@
+job_role,required_skills,job_description
+Python Developer,"Python,Django,Flask,SQL,Git,REST API","Develop backend applications using Python, APIs, databases and web frameworks."
+Data Analyst,"Python,Pandas,NumPy,SQL,Excel,Power BI,Tableau","Analyze data, create reports and dashboards using Python, SQL and visualization tools."
+Machine Learning Engineer,"Python,Machine Learning,Scikit-learn,Pandas,NumPy,TensorFlow,PyTorch","Build and deploy machine learning models using Python, data processing and deep learning frameworks."
+Web Developer,"HTML,CSS,JavaScript,React,Node.js,SQL","Develop responsive web applications using frontend and backend technologies."
+Data Scientist,"Python,Pandas,NumPy,Scikit-learn,Machine Learning,SQL,Statistics","Analyze data and build predictive models using statistics, machine learning and Python."
+AI Engineer,"Python,Artificial Intelligence,Machine Learning,Deep Learning,TensorFlow,PyTorch,NLP","Develop AI systems using machine learning, deep learning and natural language processing."
