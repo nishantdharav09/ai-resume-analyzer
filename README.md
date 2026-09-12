@@ -51,10 +51,10 @@ AI-Resume-Analyzer/
 
 ### Option 1 — Run Using BAT File (Recommended)
 
-Simply double-click:
+Simply double-click:-
 run_ai_resume_analyzer.bat
 
-##Option 2 — Run Manually
+##Option 2 — Run Manually:-
 
 Open the terminal inside the project folder.
 
