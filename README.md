@@ -47,18 +47,21 @@ AI-Resume-Analyzer/
 │
 └── utils/
 
-⚙️ How to Run
+## ⚙️ How to Run
 
-Option 1 — Run Using BAT File
+### Option 1 — Run Using BAT File (Recommended)
+
 Simply double-click:
 run_ai_resume_analyzer.bat
-The application will start automatically.
 
-Option 2 — Run Manually
+##Option 2 — Run Manually
+
 Open the terminal inside the project folder.
 
 Step 1 — Activate Virtual Environment
-venv\Scripts\activateStep 2 — Install Dependencies
+venv\Scripts\activate
+
+Step 2 — Install Dependencies
 pip install -r requirements.txt
 
 Step 3 — Run the Application
