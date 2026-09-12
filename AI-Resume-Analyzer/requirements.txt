@@ -3,6 +3,8 @@ PyPDF2
 python-docx
 pandas
 numpy
-scikit-learnpython
+scikit-learn
+pillow
+pytesseract
 nltk
 reportlab
